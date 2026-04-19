@@ -1,0 +1,11 @@
+# dataset path
+path: E:\Study_Information\Object_Detection\RT-DETR\MCAD-DETR-v2\RTDETR-main
+train: ./dataset/images/train
+val: ./dataset/images/val
+test: ./dataset/images/test
+
+# number of classes
+nc: 4
+
+# class names
+names: ['Frogeye', 'Mosaic', 'Budworm damage', 'Wildfire']
